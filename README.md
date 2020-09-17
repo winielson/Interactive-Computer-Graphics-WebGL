@@ -1,2 +1,1 @@
-# Interactive-Computer-Graphics-WebGL
-Interactive-Computer-Graphics-WebGL (NJIT CS 438)
+# Interactive-Computer-Graphics-WebGL (NJIT CS 438)
